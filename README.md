@@ -1,6 +1,7 @@
 # CampusCart 🛒
 
 A modern e-commerce platform for campus essentials built with Node.js, Express, and vanilla JavaScript.
+link: https://campuscart.fly.dev/
 
 ## Features
 
@@ -56,4 +57,5 @@ campuscart/
 ## License
 
 ISC
+
 
