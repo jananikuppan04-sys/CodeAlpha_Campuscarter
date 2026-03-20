@@ -63,8 +63,55 @@ campuscart/
 └── package.json    # Dependencies
 ```
 
+
+## Design Approach
+
+* Lightweight frontend without heavy frameworks
+* Clear separation between frontend and backend
+* Simple database design using SQLite
+* Focus on fast load time and usability
+
+---
+
+## Security Improvements (Recommended)
+
+* Password hashing using bcrypt
+* Token-based authentication (JWT)
+* Input validation and sanitization
+
+---
+
+## Future Enhancements
+
+* Payment gateway integration
+* Admin dashboard for product management
+* Search and filtering system
+* Email notifications
+* Recommendation system
+
+---
+
+## Contributing
+
+1. Fork the repository
+2. Create a new branch
+3. Commit changes
+4. Push to your branch
+5. Open a pull request
+
+---
+
 ## License
 
-ISC
+This project is licensed under the ISC License.
+
+---
+
+## Author
+
+Developed as a practical implementation of a campus-focused e-commerce system.
+
+
+
 
 
